@@ -18,5 +18,5 @@ func main() {
 		fmt.Printf("version: %s\n", version)
 		return
 	}
-	fmt.Printf("This is go-cmd-sample %s\n", version)
+	fmt.Printf("This is sample command %s\n", version)
 }
